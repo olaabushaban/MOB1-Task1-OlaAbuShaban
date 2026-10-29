@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">birthdayCard</string>
+    <string name="from_ola">From Ola</string>
+    <string name="happy_birthday_lama">Happy birthday Lama!</string>
+    <string name="backgroungimage">backgroungimage</string>
+    <string name="fromola">fromola</string>
+</resources>

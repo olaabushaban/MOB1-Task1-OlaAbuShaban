@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="box_one_four">#F8E2D0</color>
+    <color name="box_two_three">#F2C8AD</color>
+
+    <color name="text_color">#000000</color>
+
+</resources>
